@@ -1,0 +1,4 @@
+.idea/
+*.onnx
+*.wav
+*.mp3
